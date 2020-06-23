@@ -8,6 +8,18 @@ Add short description of application here....
 
 ---
 
+## Navigation
+
+- [Getting Started](#getting-started)
+- [Environment Setup](#environment-setup)
+- [Available Scripts](#available-scripts)
+- [Development Guidelines](#development-guidelines)
+- [Commit Messaging Guidelines](#commit-messaging-guidelines)
+- [Project Dependencies](#project-dependencies)
+- [Learn More](#learn-more)
+
+---
+
 ## Getting Started
 
 _Make sure [environment is setup](#environment-setup) in order to run the following scripts._
@@ -19,25 +31,21 @@ _Make sure [environment is setup](#environment-setup) in order to run the follow
    - Open a new terminal
    - `$ npm run mock:start`
 
-   _Optional_
+4. _Optional_
 
    - Run storybook docs
    - Open a new terminal
    - `$ npm run storybook`
    - _note: you do not need mock server to run storybook docs_
 
+---
+
 ## Environment Setup
 
 - Install [Node.js](https://nodejs.org/en/download/)
 - Install [git](https://git-scm.com/downloads)
-
-## Navigation
-
-- [Available Scripts](#available-scripts)
-- [Development Guidelines](#development-guidelines)
-- [Commit Messaging Guidelines](#commit-messaging-guidelines)
-- [Project Dependencies](#project-dependencies)
-- [Learn More](#learn-more)
+- Install [VS Code](https://code.visualstudio.com/) _\*Suggested Code Editor_
+- Install [Suggested Code Editor Plugins](#suggested-code-editor-plugins)
 
 ---
 
