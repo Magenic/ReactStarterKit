@@ -55,7 +55,7 @@ export const TopNavigation = ({
     <NavigationWrapper>
       <NavigationImage>
         <NavLink to={paths.dashboard}>
-          <img alt="Constellation Logo" src={Logo} />
+          <img width="150" alt="Logo" src={Logo} />
         </NavLink>
       </NavigationImage>
       <NavigationNav>

@@ -46,6 +46,12 @@ export const colors: Colors = {
     dark: '#f07700',
     contrastText: '#FFF',
   },
+  green: {
+    light: '#DEFFA9',
+    main: '#78be43',
+    dark: '#125800',
+    contrastText: '#FFF',
+  },
 };
 
 export default colors;

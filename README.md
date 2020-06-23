@@ -10,7 +10,21 @@ Add short description of application here....
 
 ## Getting Started
 
-ADD the steps to get started here...
+1. `$ npm install`
+2. `$ npm start`
+3. Start Mock Server
+
+   - Open a new terminal
+   - `$ npm run mock:start`
+
+   _Optional_
+
+   - Run storybook docs
+   - Open a new terminal
+   - `$ npm run storybook`
+   - _note: you do not need mock server to run storybook docs_
+
+## Navigation
 
 - [Available Scripts](#available-scripts)
 - [Development Guidelines](#development-guidelines)

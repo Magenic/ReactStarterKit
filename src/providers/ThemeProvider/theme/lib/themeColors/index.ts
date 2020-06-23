@@ -38,9 +38,9 @@ export const themeColors: ThemeColors = {
     white: colors.white.light,
   },
   primary: {
-    light: colors.blue.light,
-    main: colors.blue.main,
-    dark: colors.blue.dark,
+    light: colors.green.light,
+    main: colors.green.main,
+    dark: colors.green.dark,
     contrastText: colors.blue.contrastText,
   },
   background: {
