@@ -266,4 +266,4 @@ Below is a list of libraries & tools that are being leveraged.
 
 ---
 
-### [[ ⬆ BACK TO TOP ⬆ ]](#getting-started)
+### [[ ⬆ BACK TO TOP ⬆ ]](#navigation)
