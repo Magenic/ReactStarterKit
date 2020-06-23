@@ -1,0 +1,12 @@
+{
+    "name": "@local/commit-bootstrap",
+    "version": "0.1.0",
+    "private": true,
+    "bin": "./index.js",
+    "dependencies": {
+        "commitizen": "^4.1.2",
+        "cz-conventional-changelog": "^3.2.0",
+        "@commitlint/cli": "^8.3.5",
+        "@commitlint/config-conventional": "^8.3.4"
+    }
+}

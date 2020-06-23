@@ -1,0 +1,9 @@
+{
+  "extends": "./packages/ts-config-create-react-app/index.json",
+  "compilerOptions": {
+    "rootDir": ".",
+    "outDir": "build",
+    "baseUrl": "src"
+  },
+  "include": ["src"]
+}

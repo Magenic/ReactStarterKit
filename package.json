@@ -1,0 +1,58 @@
+{
+  "name": "react-starter-kit",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=14.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "check": "gts check",
+    "fix": "gts fix",
+    "commit": "./node_modules/.bin/commit-bootstrap",
+    "clean:dist": "gts clean",
+    "clean:pkg": "rm package-lock.json & rm -rf node_modules",
+    "storybook": "start-storybook --config-dir ./packages/storybook-bootstrap/lib -p 9009 -s public",
+    "build-storybook": "build-storybook --config-dir ./packages/storybook-bootstrap/lib -s public",
+    "mock:start": "mock-server"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.152",
+    "@types/node": "^13.11.1",
+    "@types/numeral": "0.0.28",
+    "@types/react": "^16.9.0",
+    "@types/react-dom": "^16.9.0",
+    "@types/react-modal": "^3.10.5",
+    "@types/react-router-dom": "^5.1.5",
+    "@types/recharts": "^1.8.10",
+    "@types/styled-components": "^5.1.0",
+    "axios": "^0.19.2",
+    "clsx": "^1.1.1",
+    "formik": "^2.1.4",
+    "lodash": "^4.17.15",
+    "normalize.css": "^8.0.1",
+    "numeral": "^2.0.6",
+    "polished": "^3.6.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-modal": "^3.11.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1",
+    "react-toastify": "^6.0.5",
+    "recharts": "^1.8.5",
+    "styled-components": "^5.1.1",
+    "typescript": "^3.8.3",
+    "yup": "^0.29.1"
+  },
+  "devDependencies": {
+    "@local/commit-bootstrap": "file:packages/commit-bootstrap",
+    "@local/lint-staged-bootstrap": "file:packages/lint-staged-bootstrap",
+    "@local/mock-server-bootstrap": "file:packages/mock-server-bootstrap",
+    "@local/storybook-bootstrap": "file:packages/storybook-bootstrap",
+    "@local/testing-bootstrap": "file:packages/testing-bootstrap",
+    "gts": "^2.0.2",
+    "husky": "^4.2.5"
+  }
+}

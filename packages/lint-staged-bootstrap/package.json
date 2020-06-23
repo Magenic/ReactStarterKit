@@ -1,0 +1,8 @@
+{
+    "name": "@local/lint-staged-bootstrap",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "lint-staged": "^10.2.4"
+    }
+}

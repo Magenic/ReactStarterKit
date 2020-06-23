@@ -1,0 +1,14 @@
+{
+    "name": "@local/storybook-bootstrap",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "@storybook/addon-actions": "^5.3.18",
+        "@storybook/addon-docs": "^5.3.18",
+        "@storybook/addon-links": "^5.3.18",
+        "@storybook/addons": "^5.3.18",
+        "@storybook/design-system": "^5.1.0",
+        "@storybook/preset-create-react-app": "^2.1.2",
+        "@storybook/react": "^5.3.18"
+    }
+}

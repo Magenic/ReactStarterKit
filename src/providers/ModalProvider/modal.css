@@ -1,0 +1,22 @@
+.ReactModalPortal *:focus {
+  outline: none;
+}
+
+.ReactModal__Body--open,
+.ReactModal__Html--open {
+  overflow: hidden;
+}
+
+.ReactModal__Overlay {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ReactModal__Content {
+  position: relative;
+  display: inline-flex;
+  flex: 0 0 auto;
+  max-width: 70%;
+  max-height: 70%;
+}
