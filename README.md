@@ -10,6 +10,8 @@ Add short description of application here....
 
 ## Getting Started
 
+_Make sure [environment is setup](#environment-setup) in order to run the following scripts._
+
 1. `$ npm install`
 2. `$ npm start`
 3. Start Mock Server
@@ -23,6 +25,11 @@ Add short description of application here....
    - Open a new terminal
    - `$ npm run storybook`
    - _note: you do not need mock server to run storybook docs_
+
+## Environment Setup
+
+- Install [Node.js](https://nodejs.org/en/download/)
+- Install [git](https://git-scm.com/downloads)
 
 ## Navigation
 
