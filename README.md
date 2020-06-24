@@ -270,7 +270,9 @@ Below is a list of libraries & tools that are being leveraged.
 
 ### React Resources
 
+- [Repository Video Demos](https://web.microsoftstream.com/channel/193917fc-bd40-41ea-94e5-541c79189471)
 - [React documentation](https://reactjs.org/)
+- [Intro To React Tutorial](https://egghead.io/lessons/react-a-beginners-guide-to-react-introduction)
 
 ---
 
